@@ -34,3 +34,51 @@ mindmap
           finding common ground
           sharing visions
 ```
+
+## Power vs Interest
+
+|                     | **High Interest** | **Low Interest** |
+|---------------------|-------------------|------------------|
+| **High Power**      | Must be kept <br> fully informed <br> and satisfied | Once you have buy in <br> keep informed only about <br> major progress and problems |
+| **Low Power**       | Keep their <br> motivation high <br> by including them | Give them the information necessary <br> so to understand <br> the bare necessities of the project | 
+
+High power / High interest should be the focus of your communication.
+
+Consider what your stakeholders should:
+
+- Think
+- Do
+- Feel
+
+What should you?
+
+## Power bases
+
+Various strengths stemming from your position or personality and knowledge.
+
+### Positional
+
+```mermaid
+mindmap
+  root((Positional Power Bases))
+    Status / Authority
+    Reward
+    Coercive
+    Resources
+    Connection
+```
+
+### Personal
+
+```mermaid
+mindmap
+  root((Personal Power Bases))
+    Expertise
+    Referent
+    Connection
+    Charisma
+    Inspirational
+```
+
+
+
